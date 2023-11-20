@@ -36,7 +36,7 @@ If you're interested in harnessing the power of ATOM AI, you can explore it furt
 ---
 
 Connect with us on social media:
-- [Instagram](https://www.instagram.com/atom_solutions/)
-- [Twitter](https://twitter.com/Atom_AI_)
-- [GitHub](https://github.com/Atom-AI-Solutions)
-- [LinkedIn](https://www.linkedin.com/company/atom-ai-solutions)
+- [Instagram](https://www.instagram.com/atom_solutions/) 📸
+- [Twitter](https://twitter.com/Atom_AI_) 🐦
+- [GitHub](https://github.com/Atom-AI-Solutions) 🐙
+- [LinkedIn](https://www.linkedin.com/company/atom-ai-solutions) 🔗
