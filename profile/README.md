@@ -32,3 +32,11 @@ Welcome to the world of ATOM AI, a versatile AI tool designed to meet the needs 
 ## Explore ATOM AI!
 
 If you're interested in harnessing the power of ATOM AI, you can explore it further on our website at [atomaisolutions.com](https://www.atomaisolutions.com). It's your gateway to a world of intelligent solutions. 🚀
+
+---
+
+Connect with us on social media:
+- [Instagram](https://www.instagram.com/atom_solutions/)
+- [Twitter](https://twitter.com/Atom_AI_)
+- [GitHub](https://github.com/Atom-AI-Solutions)
+- [LinkedIn](https://www.linkedin.com/company/atom-ai-solutions)
