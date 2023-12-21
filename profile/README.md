@@ -1,4 +1,3 @@
-
 <img width="972" alt="atom banner" src="https://github.com/connor-engelsberg/atomai/assets/149274430/62058bee-b2e8-40fb-861f-166639e0ffc1">
 
 # ATOM AI: Powering Advanced Data Analysis, Virtual Assistance, and More! 🚀
