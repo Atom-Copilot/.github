@@ -3,7 +3,7 @@
 
 # ATOM AI: Powering Advanced Data Analysis, Virtual Assistance, and More! 🚀
 
-Welcome to the world of ATOM AI, a versatile AI tool designed to meet the needs of users in various domains. With a strong emphasis on advanced data analysis and virtual assistance, ATOM AI offers a wide range of applications. Look what ATOM can do:
+Welcome to the world of ATOM AI, a versatile AI tool designed to meet the needs of users in various domains. With a revolutionary design and a strong emphasis on advanced virtual assistance, Atom offers a wide range of applications. Look what Atom can do:
 
 ### For Students:
 
