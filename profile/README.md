@@ -3,7 +3,7 @@
 
 # Atom: Streamline tasks, boost productivity, and simplify your life with our powerful AI virtual assistant!
 
-Welcome to the world of ATOM AI, a versatile AI tool designed to meet the needs of users in various domains. With a revolutionary design and a strong emphasis on advanced virtual assistance, Atom offers a wide range of applications. Look what Atom can do:
+Welcome to the world of Atom, a versatile AI tool designed to meet the needs of users in various domains. With a revolutionary design and a strong emphasis on advanced virtual assistance, Atom offers a wide range of applications. Look what Atom can do:
 
 ### For Students:
 
@@ -31,7 +31,7 @@ Welcome to the world of ATOM AI, a versatile AI tool designed to meet the needs 
 
 ## Explore ATOM AI!
 
-If you're interested in harnessing the power of ATOM AI, you can explore it further on our website at [atomaisolutions.com](https://www.atomaisolutions.com). It's your gateway to a world of intelligent solutions. 🚀
+If you're interested in harnessing the power of Atom, you can explore it further on our website at [atomaisolutions.com](https://www.atomaisolutions.com). It's your gateway to a world of intelligent solutions. 🚀
 
 ---
 
