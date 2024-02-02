@@ -29,9 +29,9 @@ Welcome to the world of Atom, a versatile AI tool designed to meet the needs of 
 
 - **Scalable Training:** What sets ATOM AI apart is its adaptability. Users can enhance its capabilities by adding to its training, tailoring it to specific requirements and continually expanding its knowledge base.
 
-## Explore ATOM AI!
+## Explore Atom Copilot!
 
-If you're interested in harnessing the power of Atom, you can explore it further on our website at [atomaisolutions.com](https://www.atomaisolutions.com). It's your gateway to a world of intelligent solutions. 🚀
+If you're interested in harnessing the power of Atom, you can explore it further on our website at [atomcopilot.com](https://www.atomcopilot.com). It's your gateway to a world of intelligent solutions. 🚀
 
 ---
 
